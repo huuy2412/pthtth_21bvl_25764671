@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ThucHanh4",
+            "request": "launch",
+            "mainClass": "Lab3.ThucHanh4",
+            "projectName": "pthtth_21bvl_25764671_8c2498ac"
+        },
+        {
+            "type": "java",
+            "name": "Run ThucHanh3",
+            "request": "launch",
+            "mainClass": "Lab3.ThucHanh3",
+            "args": [
+                "data/source.png",
+                "data/copy.png"
+            ]
+        }
+    ]
+}
