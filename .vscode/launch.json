@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThucHanh2",
+            "request": "launch",
+            "mainClass": "Lab3.ThucHanh2",
+            "projectName": "pthtth_21bvl_25764671_8c2498ac"
+        },
+        {
+            "type": "java",
+            "name": "ThucHanh1",
+            "request": "launch",
+            "mainClass": "Lab3.ThucHanh1",
+            "projectName": "pthtth_21bvl_25764671_8c2498ac"
+        },
+        {
+            "type": "java",
             "name": "ThucHanh4",
             "request": "launch",
             "mainClass": "Lab3.ThucHanh4",
